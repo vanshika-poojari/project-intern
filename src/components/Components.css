@@ -1,0 +1,101 @@
+.list_style {
+  display: flex;
+  background: linear-gradient(to right, white, rgb(225, 246, 253));
+  padding: 40px 0px 40px 50px;
+  border: 0px solid #ddd;
+  border-left: 0px solid #ccc;
+  border-radius: 15px;
+  box-shadow: 0px 0px 10px rgb(208, 205, 205);
+  margin: 30px 0px 20px 240px;
+  width: 67%;
+  color: rgb(7, 51, 90);
+}
+
+/* .list_style span {
+  margin: 17px;
+  padding: 5px;
+  border: 2px solid rgb(7, 51, 90);
+  border-radius: 10px;
+  width: 14%;
+  font-size: 16px;
+  white-space: nowrap;
+  height: 40px;
+} */
+
+.text {
+  margin: 6px;
+}
+
+.inner_list {
+  margin-top: 28px;
+  margin-bottom: 28px;
+}
+
+.list_value {
+  margin-top: 21px;
+  border: 2px solid rgb(7, 51, 90);
+  border-radius: 12px;
+  height: 40px;
+  width: 100%;
+  text-align: center;
+  font-size: 16px;
+  padding-top: 6px;
+  padding-left: 10px;
+  padding-right: 10px;
+  
+}
+.list_value2 {
+  margin-top: 15px;
+  border: 2px solid rgb(7, 51, 90);
+  border-radius: 12px;
+  height: 40px;
+  width: 100%;
+  text-align: center;
+  font-size: 16px;
+  padding-top: 6px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.list_value1 {
+  margin-top: 16px;
+  border: 2px dashed rgb(7, 51, 90);
+  border-radius: 12px;
+  height: 40px;
+  width: 100%;
+  text-align: center;
+  font-size: 16px;
+  padding-top: 6px;
+  padding-left: 10px;
+  padding-right: 10px;
+  box-shadow: 9px 0px 12px rgb(187, 194, 234);
+}
+.tab{ 
+  position: absolute;
+  display: flex;
+  margin-left : 400px;
+  margin-top: 100px;
+  text-align: center;
+  
+}
+
+.tab2{
+  position: absolute;
+  display: flex;
+  margin-left : 430px;
+  margin-top: 70px;
+  text-align: center;
+  font-weight: bold; 
+  
+}
+
+.tab3{
+
+  position: absolute;
+  display: flex;
+  margin-left : 700px;
+  margin-top: 65px;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+
+}
